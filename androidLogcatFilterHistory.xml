@@ -1,0 +1,16 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="TimerApp " />
+    <option name="nonFavorites">
+      <list>
+        <option value="TimerApp " />
+        <option value="info" />
+        <option value="error" />
+        <option value="level:info " />
+        <option value="package:mine " />
+        <option value="index" />
+        <option value="UITEST_MAIN" />
+      </list>
+    </option>
+  </component>
+</application>
