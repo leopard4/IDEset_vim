@@ -23,6 +23,9 @@
         <text encoding="base64">Y3RybCBwcmVzc2VkIFU=</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEQ=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
         <text encoding="base64">Y3RybCBwcmVzc2VkIEU=</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -31,7 +34,7 @@
     </shortcut-conflicts>
   </component>
   <component name="VimSettings">
-    <state version="7" enabled="true" />
+    <state version="7" enabled="false" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
