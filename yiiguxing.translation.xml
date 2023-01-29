@@ -10,19 +10,21 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="346" />
-    <option name="newTranslationDialogWidth" value="596" />
-    <option name="newTranslationDialogX" value="1397" />
-    <option name="newTranslationDialogY" value="101" />
+    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogX" value="411" />
+    <option name="newTranslationDialogY" value="592" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="IDE error occurred&#10;" />
+      <item value="idea vim" />
       <item value="Learn tool window is not showing by default. You can access it by IDE Features Trainer item in the Help menu or by the Learn you IDE name (for example, Learn PyCharm) link at the Welcome screen (this link will be available after IDE restart)." />
       <item value="apple" />
       <item value="millis Until Finished" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="3" />
-        <entry key="KOREAN" value="3" />
+        <entry key="ENGLISH" value="4" />
+        <entry key="KOREAN" value="5" />
       </map>
     </option>
   </component>
