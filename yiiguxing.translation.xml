@@ -14,12 +14,13 @@
     <option name="newTranslationDialogX" value="681" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="apple" />
       <item value="millis Until Finished" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
-        <entry key="KOREAN" value="1" />
+        <entry key="ENGLISH" value="2" />
+        <entry key="KOREAN" value="2" />
       </map>
     </option>
   </component>
