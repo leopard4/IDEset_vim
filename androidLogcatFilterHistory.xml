@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="TimerApp " />
+    <option name="mostRecentlyUsed" value="LifeCycleApp" />
     <option name="nonFavorites">
       <list>
+        <option value="LifeCycleApp" />
+        <option value="LifeCy" />
         <option value="TimerApp " />
         <option value="info" />
         <option value="error" />
