@@ -14,6 +14,7 @@
     <option name="newTranslationDialogX" value="411" />
     <option name="newTranslationDialogY" value="592" />
     <histories>
+      <item value="Contact" />
       <item value="Recycler" />
       <item value="RecyclerView " />
       <item value="Preference&#10;" />
@@ -33,7 +34,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="12" />
+        <entry key="ENGLISH" value="13" />
         <entry key="KOREAN" value="14" />
       </map>
     </option>
