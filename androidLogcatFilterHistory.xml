@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Contact_" />
+    <option name="mostRecentlyUsed" value="memoList" />
     <option name="nonFavorites">
       <list>
+        <option value="memoList" />
+        <option value="memoGet" />
+        <option value="memo" />
         <option value="Contact_" />
         <option value="LifeCycleApp" />
         <option value="LifeCy" />
