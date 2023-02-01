@@ -10,17 +10,21 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="346" />
-    <option name="newTranslationDialogWidth" value="590" />
-    <option name="newTranslationDialogX" value="411" />
-    <option name="newTranslationDialogY" value="592" />
+    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogX" value="1283" />
+    <option name="newTranslationDialogY" value="166" />
     <histories>
+      <item value="You can easily convert any Java class to Kotlin with the same semantics.&#10;To do that, select Code | Convert Java File to Kotlin File from the main menu." />
+      <item value="Android Studio allows you to easily call a Java code from Kotlin:" />
+      <item value="lossless&#10;" />
+      <item value="compare&#10;" />
+      <item value="c" />
       <item value="ror: illegal start of type" />
       <item value="Contact" />
       <item value="Recycler" />
       <item value="RecyclerView " />
       <item value="Preference&#10;" />
       <item value="context" />
-      <item value="c" />
       <item value="register For Activity Result" />
       <item value="Activity Result Contracts" />
       <item value="Contracts" />
@@ -35,8 +39,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="13" />
-        <entry key="KOREAN" value="15" />
+        <entry key="ENGLISH" value="16" />
+        <entry key="KOREAN" value="19" />
       </map>
     </option>
   </component>
