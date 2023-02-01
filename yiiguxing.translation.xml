@@ -14,11 +14,14 @@
     <option name="newTranslationDialogX" value="1283" />
     <option name="newTranslationDialogY" value="166" />
     <histories>
+      <item value="contact&#10;" />
+      <item value="contact" />
+      <item value="c" />
+      <item value="context&#10;" />
       <item value="You can easily convert any Java class to Kotlin with the same semantics.&#10;To do that, select Code | Convert Java File to Kotlin File from the main menu." />
       <item value="Android Studio allows you to easily call a Java code from Kotlin:" />
       <item value="lossless&#10;" />
       <item value="compare&#10;" />
-      <item value="c" />
       <item value="ror: illegal start of type" />
       <item value="Contact" />
       <item value="Recycler" />
@@ -40,7 +43,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="16" />
-        <entry key="KOREAN" value="19" />
+        <entry key="KOREAN" value="21" />
       </map>
     </option>
   </component>
