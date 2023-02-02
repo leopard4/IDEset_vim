@@ -14,6 +14,8 @@
     <option name="newTranslationDialogX" value="1283" />
     <option name="newTranslationDialogY" value="166" />
     <histories>
+      <item value="@layout/activity_add does not contain a declaration with id txtContent" />
+      <item value="@SuppressLint(&quot;WrongViewCast&quot;)" />
       <item value="plain" />
       <item value="palin&#10;" />
       <item value="pa" />
@@ -49,7 +51,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="21" />
-        <entry key="KOREAN" value="22" />
+        <entry key="KOREAN" value="24" />
       </map>
     </option>
   </component>
