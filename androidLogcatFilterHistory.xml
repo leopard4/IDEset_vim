@@ -1,9 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="NETWORK_APP" />
+    <option name="mostRecentlyUsed" value="번째 데이터" />
     <option name="nonFavorites">
       <list>
+        <option value="번째 데이터" />
         <option value="NETWORK_APP" />
+        <option value="package:mine " />
         <option value="searchLog" />
         <option value="memoList" />
         <option value="memoGet" />
@@ -15,7 +17,6 @@
         <option value="info" />
         <option value="error" />
         <option value="level:info " />
-        <option value="package:mine " />
         <option value="index" />
         <option value="UITEST_MAIN" />
       </list>
