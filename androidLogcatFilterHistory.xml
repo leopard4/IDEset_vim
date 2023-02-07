@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="EMPLOYEE_APP" />
+    <option name="mostRecentlyUsed" value="TAG" />
     <option name="nonFavorites">
       <list>
+        <option value="TAG" />
         <option value="EMPLOYEE_APP" />
         <option value="번째 데이터" />
         <option value="NETWORK_APP" />
