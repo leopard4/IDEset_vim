@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="PAPAGO_APP" />
+    <option name="mostRecentlyUsed" value="MEMO_APP" />
     <option name="nonFavorites">
       <list>
+        <option value="MEMO_APP" />
         <option value="PAPAGO_APP" />
         <option value="TAG" />
         <option value="EMPLOYEE_APP" />
