@@ -1,15 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="TimerApp " />
+    <option name="mostRecentlyUsed" value="ok" />
     <option name="nonFavorites">
       <list>
+        <option value="ok" />
+        <option value="okhttp" />
+        <option value="MEMO_APP" />
+        <option value="PAPAGO_APP" />
+        <option value="TAG" />
+        <option value="EMPLOYEE_APP" />
+        <option value="번째 데이터" />
+        <option value="NETWORK_APP" />
+        <option value="package:mine " />
+        <option value="searchLog" />
+        <option value="memoList" />
+        <option value="memoGet" />
+        <option value="memo" />
+        <option value="Contact_" />
+        <option value="LifeCycleApp" />
+        <option value="LifeCy" />
         <option value="TimerApp " />
         <option value="info" />
         <option value="error" />
         <option value="level:info " />
-        <option value="package:mine " />
-        <option value="index" />
-        <option value="UITEST_MAIN" />
       </list>
     </option>
   </component>
