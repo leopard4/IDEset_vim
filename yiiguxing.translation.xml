@@ -10,13 +10,10 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="346" />
-    <option name="newTranslationDialogWidth" value="586" />
+    <option name="newTranslationDialogWidth" value="588" />
     <option name="newTranslationDialogX" value="1283" />
     <option name="newTranslationDialogY" value="166" />
     <histories>
-      <item value="Some of the changes in the specified patch were skipped because they are already contained in the code" />
-      <item value="Your local changes will be overwritten by merge. Commit, stash, or revert them to proceed.View them" />
-      <item value="Initial commit" />
       <item value="Error while waiting for device" />
       <item value="직원" />
       <item value="throw" />
@@ -58,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="22" />
-        <entry key="KOREAN" value="33" />
+        <entry key="KOREAN" value="28" />
       </map>
     </option>
   </component>
