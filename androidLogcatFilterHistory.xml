@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="TOTAL_DATE" />
+    <option name="mostRecentlyUsed" value="RESET?" />
     <option name="nonFavorites">
       <list>
+        <option value="RESET?" />
         <option value="TOTAL_DATE" />
         <option value="MEMO_APP" />
         <option value="ok" />
@@ -22,7 +23,6 @@
         <option value="LifeCy" />
         <option value="TimerApp " />
         <option value="info" />
-        <option value="error" />
       </list>
     </option>
   </component>
