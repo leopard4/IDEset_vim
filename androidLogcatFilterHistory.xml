@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ok" />
+    <option name="mostRecentlyUsed" value="TOTAL_DATE" />
     <option name="nonFavorites">
       <list>
+        <option value="TOTAL_DATE" />
+        <option value="MEMO_APP" />
         <option value="ok" />
         <option value="okhttp" />
-        <option value="MEMO_APP" />
         <option value="PAPAGO_APP" />
         <option value="TAG" />
         <option value="EMPLOYEE_APP" />
@@ -22,7 +23,6 @@
         <option value="TimerApp " />
         <option value="info" />
         <option value="error" />
-        <option value="level:info " />
       </list>
     </option>
   </component>
