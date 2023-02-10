@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="DELETE" />
+    <option name="mostRecentlyUsed" value="TOTAL_DATE" />
     <option name="nonFavorites">
       <list>
+        <option value="TOTAL_DATE" />
+        <option value="MEMO_APP" />
         <option value="DELETE" />
         <option value="메모객" />
         <option value="RESET?" />
-        <option value="TOTAL_DATE" />
-        <option value="MEMO_APP" />
         <option value="ok" />
         <option value="okhttp" />
         <option value="PAPAGO_APP" />
