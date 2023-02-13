@@ -13,7 +13,6 @@
     <option name="newTranslationDialogWidth" value="584" />
     <option name="newTranslationDialogX" value="575" />
     <option name="newTranslationDialogY" value="593" />
-    <option name="pinTranslationDialog" value="true" />
     <histories>
       <item value="Firebase ML is a mobile SDK that brings Google's machine learning expertise to Android and iOS apps in a powerful yet easy-to-use package. More info" />
       <item value="Automatically run backend code in response to events triggered by Firebase features and HTTPS requests. More info" />
