@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1674800812772" />
+    <option name="lastTrimTime" value="1676247867502" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="KOREAN" />
@@ -10,11 +10,48 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="346" />
-    <option name="newTranslationDialogWidth" value="594" />
-    <option name="newTranslationDialogX" value="411" />
-    <option name="newTranslationDialogY" value="592" />
-    <option name="pinTranslationDialog" value="true" />
+    <option name="newTranslationDialogWidth" value="586" />
+    <option name="newTranslationDialogX" value="892" />
+    <option name="newTranslationDialogY" value="669" />
     <histories>
+      <item value="Provider" />
+      <item value="resolve" />
+      <item value="GRANTED" />
+      <item value="Context" />
+      <item value="ContextCompat" />
+      <item value="Compat" />
+      <item value="Error while waiting for device" />
+      <item value="직원" />
+      <item value="throw" />
+      <item value="`@layout/activity_edit` does not contain a declaration with id `editTitle`" />
+      <item value="@layout/activity_add does not contain a declaration with id txtContent" />
+      <item value="@SuppressLint(&quot;WrongViewCast&quot;)" />
+      <item value="plain" />
+      <item value="palin&#10;" />
+      <item value="pa" />
+      <item value="notify" />
+      <item value="View Holder" />
+      <item value="contact" />
+      <item value="Nullable" />
+      <item value="contact&#10;" />
+      <item value="c" />
+      <item value="context&#10;" />
+      <item value="You can easily convert any Java class to Kotlin with the same semantics.&#10;To do that, select Code | Convert Java File to Kotlin File from the main menu." />
+      <item value="Android Studio allows you to easily call a Java code from Kotlin:" />
+      <item value="lossless&#10;" />
+      <item value="compare&#10;" />
+      <item value="ror: illegal start of type" />
+      <item value="Contact" />
+      <item value="Recycler" />
+      <item value="RecyclerView " />
+      <item value="Preference&#10;" />
+      <item value="context" />
+      <item value="register For Activity Result" />
+      <item value="Activity Result Contracts" />
+      <item value="Contracts" />
+      <item value="Extra" />
+      <item value="put Extra" />
+      <item value="on Resume" />
       <item value="IDE error occurred&#10;" />
       <item value="idea vim" />
       <item value="Learn tool window is not showing by default. You can access it by IDE Features Trainer item in the Help menu or by the Learn you IDE name (for example, Learn PyCharm) link at the Welcome screen (this link will be available after IDE restart)." />
@@ -23,8 +60,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="4" />
-        <entry key="KOREAN" value="5" />
+        <entry key="ENGLISH" value="25" />
+        <entry key="KOREAN" value="32" />
       </map>
     </option>
   </component>
