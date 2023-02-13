@@ -10,10 +10,22 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="346" />
-    <option name="newTranslationDialogWidth" value="586" />
-    <option name="newTranslationDialogX" value="892" />
-    <option name="newTranslationDialogY" value="669" />
+    <option name="newTranslationDialogWidth" value="584" />
+    <option name="newTranslationDialogX" value="575" />
+    <option name="newTranslationDialogY" value="593" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Firebase ML is a mobile SDK that brings Google's machine learning expertise to Android and iOS apps in a powerful yet easy-to-use package. More info" />
+      <item value="Automatically run backend code in response to events triggered by Firebase features and HTTPS requests. More info" />
+      <item value="&#10;Store and retrieve large files like images, audio, and video without writing server-side code. More info" />
+      <item value="Store and sync your app data with this flexible, scalable NoSQL cloud-hosted database. More info." />
+      <item value="Store and sync data with this cloud-hosted NoSQL database. Data is synced across all clients in realtime and remains available when your app goes offline. More info" />
+      <item value="Autentication" />
+      <item value="Auten" />
+      <item value="Au" />
+      <item value="a" />
+      <item value="Sign in and manage users with ease using popular login providers like Google, Facebook, and others. You can even use a custom authentication system. More info" />
+      <item value="Measure user activity and engagement with free, easy, and unlimited analytics. More info" />
       <item value="Provider" />
       <item value="resolve" />
       <item value="GRANTED" />
@@ -53,15 +65,11 @@
       <item value="put Extra" />
       <item value="on Resume" />
       <item value="IDE error occurred&#10;" />
-      <item value="idea vim" />
-      <item value="Learn tool window is not showing by default. You can access it by IDE Features Trainer item in the Help menu or by the Learn you IDE name (for example, Learn PyCharm) link at the Welcome screen (this link will be available after IDE restart)." />
-      <item value="apple" />
-      <item value="millis Until Finished" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="25" />
-        <entry key="KOREAN" value="32" />
+        <entry key="ENGLISH" value="33" />
+        <entry key="KOREAN" value="41" />
       </map>
     </option>
   </component>
