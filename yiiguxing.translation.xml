@@ -10,10 +10,11 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="346" />
-    <option name="newTranslationDialogWidth" value="584" />
+    <option name="newTranslationDialogWidth" value="582" />
     <option name="newTranslationDialogX" value="575" />
     <option name="newTranslationDialogY" value="593" />
     <histories>
+      <item value="Run configuration app is not supported in the current project. Cannot obtain the application ID." />
       <item value="Error while waiting for device: Pixel 2 API 33 is already running. If that is not the case, delete C:\Users\5-10\.android\avd\Pixel_2_API_33.avd\*.lock and try again." />
       <item value="Firebase ML is a mobile SDK that brings Google's machine learning expertise to Android and iOS apps in a powerful yet easy-to-use package. More info" />
       <item value="Automatically run backend code in response to events triggered by Firebase features and HTTPS requests. More info" />
@@ -63,12 +64,11 @@
       <item value="Contracts" />
       <item value="Extra" />
       <item value="put Extra" />
-      <item value="on Resume" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="33" />
-        <entry key="KOREAN" value="43" />
+        <entry key="KOREAN" value="44" />
       </map>
     </option>
   </component>
