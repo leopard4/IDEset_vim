@@ -10,10 +10,13 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="346" />
-    <option name="newTranslationDialogWidth" value="580" />
-    <option name="newTranslationDialogX" value="575" />
-    <option name="newTranslationDialogY" value="593" />
+    <option name="newTranslationDialogWidth" value="574" />
+    <option name="newTranslationDialogX" value="612" />
+    <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="Caused by: java.io.IOException: Cleartext HTTP traffic to leopard4-ai-image-class-yh.s3.ap-northeast-2.amazonaws.com not permitted" />
+      <item value="There was 1 root cause:&#10;    com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)&#10;     call GlideException#logRootCauses(String) for more detail&#10;      Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetching data failed, class java.io.InputStream, REMOTE" />
+      <item value=" class com.bumptech.glide.load.engine.GlideException: Failed to load resource" />
       <item value="Context" />
       <item value="Cannot clean project while build is in progress. Please wait until the build finishes to clean the project" />
       <item value="If you are using Kotlin use the 'ktx' artifact instead" />
@@ -61,14 +64,11 @@
       <item value="RecyclerView " />
       <item value="Preference&#10;" />
       <item value="context" />
-      <item value="register For Activity Result" />
-      <item value="Activity Result Contracts" />
-      <item value="Contracts" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="34" />
-        <entry key="KOREAN" value="46" />
+        <entry key="KOREAN" value="49" />
       </map>
     </option>
   </component>
