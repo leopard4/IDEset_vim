@@ -14,6 +14,7 @@
     <option name="newTranslationDialogX" value="575" />
     <option name="newTranslationDialogY" value="593" />
     <histories>
+      <item value="Context" />
       <item value="Cannot clean project while build is in progress. Please wait until the build finishes to clean the project" />
       <item value="If you are using Kotlin use the 'ktx' artifact instead" />
       <item value="Run configuration app is not supported in the current project. Cannot obtain the application ID." />
@@ -32,7 +33,6 @@
       <item value="Provider" />
       <item value="resolve" />
       <item value="GRANTED" />
-      <item value="Context" />
       <item value="ContextCompat" />
       <item value="Compat" />
       <item value="Error while waiting for device" />
@@ -67,7 +67,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="33" />
+        <entry key="ENGLISH" value="34" />
         <entry key="KOREAN" value="46" />
       </map>
     </option>
