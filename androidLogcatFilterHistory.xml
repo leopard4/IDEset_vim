@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="POSTING_LIST" />
+    <option name="mostRecentlyUsed" value="IMAGE1" />
     <option name="nonFavorites">
       <list>
+        <option value="IMAGE1" />
         <option value="POSTING_LIST" />
         <option value="PHOTO_FILE" />
         <option value="TOTAL_DATE" />
@@ -22,7 +23,6 @@
         <option value="memoList" />
         <option value="memoGet" />
         <option value="memo" />
-        <option value="Contact_" />
       </list>
     </option>
   </component>
