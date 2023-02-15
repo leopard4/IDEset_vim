@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="IMAGE2" />
+    <option name="mostRecentlyUsed" value="MYLOCATION" />
     <option name="nonFavorites">
       <list>
+        <option value="MYLOCATION" />
         <option value="IMAGE2" />
         <option value="IMAGE1" />
         <option value="POSTING_LIST" />
@@ -22,7 +23,6 @@
         <option value="package:mine " />
         <option value="searchLog" />
         <option value="memoList" />
-        <option value="memoGet" />
       </list>
     </option>
   </component>

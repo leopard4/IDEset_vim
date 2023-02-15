@@ -14,6 +14,7 @@
     <option name="newTranslationDialogX" value="612" />
     <option name="newTranslationDialogY" value="276" />
     <histories>
+      <item value="GRANTED" />
       <item value="ROUTE" />
       <item value="Caused by: java.io.IOException: Cleartext HTTP traffic to leopard4-ai-image-class-yh.s3.ap-northeast-2.amazonaws.com not permitted" />
       <item value="There was 1 root cause:&#10;    com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)&#10;     call GlideException#logRootCauses(String) for more detail&#10;      Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetching data failed, class java.io.InputStream, REMOTE" />
@@ -36,7 +37,6 @@
       <item value="Measure user activity and engagement with free, easy, and unlimited analytics. More info" />
       <item value="Provider" />
       <item value="resolve" />
-      <item value="GRANTED" />
       <item value="ContextCompat" />
       <item value="Compat" />
       <item value="Error while waiting for device" />
@@ -67,7 +67,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="34" />
+        <entry key="ENGLISH" value="35" />
         <entry key="KOREAN" value="50" />
       </map>
     </option>
