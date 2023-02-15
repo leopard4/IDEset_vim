@@ -10,10 +10,11 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="346" />
-    <option name="newTranslationDialogWidth" value="586" />
-    <option name="newTranslationDialogX" value="892" />
-    <option name="newTranslationDialogY" value="669" />
+    <option name="newTranslationDialogWidth" value="584" />
+    <option name="newTranslationDialogX" value="1091" />
+    <option name="newTranslationDialogY" value="564" />
     <histories>
+      <item value="Begin a load with Glide that will be tied to the given Activity's lifecycle and that uses the given Activity's default options.&#10;Deprecated&#10;TODO(judds): Figure out the end state and list it here.&#10;Params:&#10;activity – The activity to use.&#10;Returns:&#10;A RequestManager for the given activity that can be used to start a load." />
       <item value="Provider" />
       <item value="resolve" />
       <item value="GRANTED" />
@@ -61,7 +62,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="25" />
-        <entry key="KOREAN" value="32" />
+        <entry key="KOREAN" value="33" />
       </map>
     </option>
   </component>
