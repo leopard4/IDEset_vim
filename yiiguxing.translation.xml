@@ -14,7 +14,6 @@
     <option name="newTranslationDialogX" value="892" />
     <option name="newTranslationDialogY" value="669" />
     <histories>
-      <item value="authorities" />
       <item value="Provider" />
       <item value="resolve" />
       <item value="GRANTED" />
@@ -61,7 +60,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="26" />
+        <entry key="ENGLISH" value="25" />
         <entry key="KOREAN" value="32" />
       </map>
     </option>
