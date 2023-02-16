@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="DEBUGGING" />
+    <option name="mostRecentlyUsed" value="myLocation" />
     <option name="nonFavorites">
       <list>
+        <option value="myLocation" />
         <option value="DEBUGGING" />
         <option value="IMAGE2" />
         <option value="POSTING_LIST" />
@@ -22,7 +23,6 @@
         <option value="번째 데이터" />
         <option value="NETWORK_APP" />
         <option value="package:mine " />
-        <option value="searchLog" />
       </list>
     </option>
   </component>
