@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="myLocation" />
+    <option name="mostRecentlyUsed" value="RESPONSE" />
     <option name="nonFavorites">
       <list>
+        <option value="RESPONSE" />
+        <option value="RESPONSE1" />
+        <option value="RESPONSE2" />
         <option value="myLocation" />
         <option value="DEBUGGING" />
         <option value="IMAGE2" />
@@ -20,9 +23,6 @@
         <option value="PAPAGO_APP" />
         <option value="TAG" />
         <option value="EMPLOYEE_APP" />
-        <option value="번째 데이터" />
-        <option value="NETWORK_APP" />
-        <option value="package:mine " />
       </list>
     </option>
   </component>
