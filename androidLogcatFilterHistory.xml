@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="BBUG" />
+    <option name="mostRecentlyUsed" value="RESPONSE2" />
     <option name="nonFavorites">
       <list>
+        <option value="RESPONSE2" />
         <option value="BBUG" />
         <option value="RESPONSE" />
         <option value="RESPONSE1" />
-        <option value="RESPONSE2" />
         <option value="myLocation" />
         <option value="DEBUGGING" />
         <option value="IMAGE2" />
