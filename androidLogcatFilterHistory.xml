@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="RESPONSE" />
+    <option name="mostRecentlyUsed" value="BBUG" />
     <option name="nonFavorites">
       <list>
+        <option value="BBUG" />
         <option value="RESPONSE" />
         <option value="RESPONSE1" />
         <option value="RESPONSE2" />
@@ -22,7 +23,6 @@
         <option value="okhttp" />
         <option value="PAPAGO_APP" />
         <option value="TAG" />
-        <option value="EMPLOYEE_APP" />
       </list>
     </option>
   </component>
