@@ -14,6 +14,7 @@
     <option name="newTranslationDialogX" value="1091" />
     <option name="newTranslationDialogY" value="564" />
     <histories>
+      <item value="onScrollStateChanged" />
       <item value="should Sho wRequest Permission" />
       <item value="should Sho wRequestPermission" />
       <item value="should Sho wReques tPermission" />
@@ -63,12 +64,11 @@
       <item value="idea vim" />
       <item value="Learn tool window is not showing by default. You can access it by IDE Features Trainer item in the Help menu or by the Learn you IDE name (for example, Learn PyCharm) link at the Welcome screen (this link will be available after IDE restart)." />
       <item value="apple" />
-      <item value="millis Until Finished" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="25" />
-        <entry key="KOREAN" value="34" />
+        <entry key="KOREAN" value="35" />
       </map>
     </option>
   </component>
