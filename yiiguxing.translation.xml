@@ -14,6 +14,7 @@
     <option name="newTranslationDialogX" value="1091" />
     <option name="newTranslationDialogY" value="564" />
     <histories>
+      <item value="Not yet implemented" />
       <item value="[ API key not valid. Please pass a valid API key." />
       <item value="com.firebase.ui.auth.FirebaseUiException: Code: 10, message: 10: " />
       <item value=" A sign-in error occurred.&#10;    com.firebase.ui.auth.FirebaseUiException: Code: 10, message: 10: " />
@@ -63,11 +64,10 @@
       <item value="View Holder" />
       <item value="contact" />
       <item value="Nullable" />
-      <item value="contact&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="42" />
+        <entry key="ENGLISH" value="43" />
         <entry key="KOREAN" value="45" />
       </map>
     </option>
