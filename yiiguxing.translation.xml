@@ -14,6 +14,9 @@
     <option name="newTranslationDialogX" value="1091" />
     <option name="newTranslationDialogY" value="564" />
     <histories>
+      <item value="Scroll down when a new message arrives See MyScrollToBottomObserver for details" />
+      <item value="The FirebaseRecyclerAdapter class and options come from the FirebaseUI library" />
+      <item value="Initialize Realtime Database and FirebaseRecyclerAdapter" />
       <item value="Not yet implemented" />
       <item value="[ API key not valid. Please pass a valid API key." />
       <item value="com.firebase.ui.auth.FirebaseUiException: Code: 10, message: 10: " />
@@ -30,7 +33,6 @@
       <item value="When running in debug mode, connect to the Firebase Emulator Suite. &quot;10.0.2.2&quot; is a special IP address which allows the Android Emulator to connect to &quot;localhost&quot; on the host computer. The port values (9xxx) must match the values defined in the firebase.json file." />
       <item value="This codelab uses View Binding See: https:developer.android.comtopiclibrariesview-binding" />
       <item value="Initialize Firebase Auth and check if the user is signed in" />
-      <item value="Initialize Realtime Database and FirebaseRecyclerAdapter" />
       <item value="Disable the send button when there's no text in the input field See MyButtonObserver for details" />
       <item value="Execution failed for task ':app:processDebugGoogleServices'.&#10;&gt; File google-services.json is missing. The Google Services Plugin cannot function without it. &#10;   Searched Location: " />
       <item value="Allow traffic to the Firebase Emulator Suite See: https:developer.android.comtrainingarticlessecurity-configCleartextTrafficPermitted" />
@@ -62,13 +64,11 @@
       <item value="palin&#10;" />
       <item value="pa" />
       <item value="View Holder" />
-      <item value="contact" />
-      <item value="Nullable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="43" />
-        <entry key="KOREAN" value="45" />
+        <entry key="ENGLISH" value="46" />
+        <entry key="KOREAN" value="46" />
       </map>
     </option>
   </component>
