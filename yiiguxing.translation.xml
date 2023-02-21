@@ -14,6 +14,12 @@
     <option name="newTranslationDialogX" value="1091" />
     <option name="newTranslationDialogY" value="564" />
     <histories>
+      <item value="Upload the image to Cloud Storage" />
+      <item value="When the image button is clicked, launch the image picker" />
+      <item value="When the send button is clicked, send a text message" />
+      <item value="Disable the send button when there's no text in the input field See MyButtonObserver for details" />
+      <item value="This codelab uses View Binding" />
+      <item value="Initialize Firebase Auth and check if the user is signed in" />
       <item value="Scroll down when a new message arrives See MyScrollToBottomObserver for details" />
       <item value="The FirebaseRecyclerAdapter class and options come from the FirebaseUI library" />
       <item value="Initialize Realtime Database and FirebaseRecyclerAdapter" />
@@ -26,14 +32,10 @@
       <item value="Initialize FirebaseAuth" />
       <item value="Not signed in, launch the Sign In activity" />
       <item value="Check if user is signed in." />
-      <item value="When the image button is clicked, launch the image picker" />
-      <item value="When the send button is clicked, send a text message" />
       <item value="TODO: implement Firebase instance variables" />
       <item value="Firebase instance variables" />
       <item value="When running in debug mode, connect to the Firebase Emulator Suite. &quot;10.0.2.2&quot; is a special IP address which allows the Android Emulator to connect to &quot;localhost&quot; on the host computer. The port values (9xxx) must match the values defined in the firebase.json file." />
       <item value="This codelab uses View Binding See: https:developer.android.comtopiclibrariesview-binding" />
-      <item value="Initialize Firebase Auth and check if the user is signed in" />
-      <item value="Disable the send button when there's no text in the input field See MyButtonObserver for details" />
       <item value="Execution failed for task ':app:processDebugGoogleServices'.&#10;&gt; File google-services.json is missing. The Google Services Plugin cannot function without it. &#10;   Searched Location: " />
       <item value="Allow traffic to the Firebase Emulator Suite See: https:developer.android.comtrainingarticlessecurity-configCleartextTrafficPermitted" />
       <item value="This is the source code for the Firebase FriendlyChat codelabs. To get started open the codelab instructions:" />
@@ -62,13 +64,11 @@
       <item value="@SuppressLint(&quot;WrongViewCast&quot;)" />
       <item value="plain" />
       <item value="palin&#10;" />
-      <item value="pa" />
-      <item value="View Holder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="46" />
-        <entry key="KOREAN" value="46" />
+        <entry key="ENGLISH" value="52" />
+        <entry key="KOREAN" value="52" />
       </map>
     </option>
   </component>
