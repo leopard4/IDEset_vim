@@ -10,10 +10,15 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="479" />
-    <option name="newTranslationDialogWidth" value="566" />
-    <option name="newTranslationDialogX" value="534" />
-    <option name="newTranslationDialogY" value="228" />
+    <option name="newTranslationDialogWidth" value="564" />
+    <option name="newTranslationDialogX" value="908" />
+    <option name="newTranslationDialogY" value="185" />
     <histories>
+      <item value="A problem occurred evaluating root project 'PostingApp'.&#10;&gt; Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'build.gradle'" />
+      <item value="ly buildscript {}, pluginManagement {} and other plugins {} script blocks are allowed before plugins {} blocks, no other statements are allowed" />
+      <item value="Build file 'C:\Users\5-10\Documents\Github\PostingApp\build.gradle' line: 24&#10;&#10;Could not compile build file 'C:\Users\5-10\Documents\Github\PostingApp\build.gradle'.&#10;&gt; startup failed:&#10;  build file 'C:\Users\5-10\Documents\Github\PostingApp\build.gradle': 24: only buildscript {}, pluginManagement {} and other plugins {} script blocks are allowed before plugins {} blocks, no other statements are allowed&#10;" />
+      <item value="Caused by: groovy.lang.MissingPropertyException: Could not get unknown property 'kotlin_version' for object of type org.gradle.api.internal.artifacts.dsl.dependencies.DefaultDependencyHandler.&#10;&#9;at org.gradle.internal.metaobject.AbstractDynamicObject.getMissingProperty(AbstractDynamicObject.java:88)&#10;&#9;at org.gradle.internal.metaobject.ConfigureDelegate.getProperty(ConfigureDelegate.java:130)" />
+      <item value="or object of type org.gradle.api.internal.artifacts.dsl.dependencies.DefaultDependencyHandler." />
       <item value="&#10;Learn how to structure data for Realtime Database.&#10;Scale your data across multiple database instances.&#10;Read and write data.&#10;View your database in the Firebase console." />
       <item value="# Add this global rule&#10;-keepattributes Signature&#10;&#10;# This rule will properly ProGuard all the model classes in&#10;# the package com.yourcompany.models.&#10;# Modify this rule to fit the structure of your app.&#10;-keepclassmembers class com.yourcompany.models.** {&#10;  *;&#10;}" />
       <item value="&#10;When using Firebase Realtime Database in your app along with ProGuard, you need to consider how your model objects will be serialized and deserialized after obfuscation. If you use DataSnapshot.getValue(Class) or DatabaseReference.setValue(Object) to read and write data you will need to add rules to the proguard-rules.pro file:" />
@@ -59,16 +64,11 @@
       <item value="palin&#10;" />
       <item value="pa" />
       <item value="View Holder" />
-      <item value="contact" />
-      <item value="Nullable" />
-      <item value="contact&#10;" />
-      <item value="c" />
-      <item value="context&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="33" />
-        <entry key="KOREAN" value="52" />
+        <entry key="KOREAN" value="57" />
       </map>
     </option>
   </component>
