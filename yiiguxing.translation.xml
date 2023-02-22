@@ -10,10 +10,11 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="346" />
-    <option name="newTranslationDialogWidth" value="578" />
+    <option name="newTranslationDialogWidth" value="576" />
     <option name="newTranslationDialogX" value="1064" />
     <option name="newTranslationDialogY" value="355" />
     <histories>
+      <item value="java.lang.IndexOutOfBoundsException: Inconsistency detected. Invalid view holder adapter positionMessageViewHolder{5ab2385 position=5 id=-1, oldPos=4, pLpos:4 scrap [attachedScrap] tmpDetached no parent} androidx.recyclerview.widget.RecyclerView{87d1af VFED..... ......I. 0,0-1080,1480 #7f08011c app:id/messageRecyclerView}, adapter:com.google.firebase.codelab.friendlychat.FriendlyMessageAdapter@811c9bc, layout:androidx.recyclerview.widget.LinearLayoutManager@e725d45, context:com.google.firebase.codelab.friendlychat.MainActivity@97824a1&#10;        at androidx.recyclerview.widget.RecyclerView$Recycler.validateViewHolderForOffsetPosition" />
       <item value="Before we get started, keep in mind:&#10;&#10;  * You are initializing within an existing Firebase project directory&#10;" />
       <item value="Already logged in as" />
       <item value=" Process: com.google.firebase.codelab.friendlychat, PID: 1564&#10;    java.lang.IndexOutOfBoundsException: Inconsistency detected. Invalid view holder adapter positionMessageViewHolder" />
@@ -63,12 +64,11 @@
       <item value="Preference&#10;" />
       <item value="context" />
       <item value="register For Activity Result" />
-      <item value="Activity Result Contracts" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="28" />
-        <entry key="KOREAN" value="40" />
+        <entry key="KOREAN" value="41" />
       </map>
     </option>
   </component>
