@@ -10,10 +10,13 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="479" />
-    <option name="newTranslationDialogWidth" value="564" />
-    <option name="newTranslationDialogX" value="908" />
-    <option name="newTranslationDialogY" value="185" />
+    <option name="newTranslationDialogWidth" value="562" />
+    <option name="newTranslationDialogX" value="729" />
+    <option name="newTranslationDialogY" value="190" />
     <histories>
+      <item value="Multiple Gradle daemons might be spawned because the Gradle JDK and JAVA_HOME locations are different. Project 'PostingApp' is using the following JDK location when running Gradle: 'C:/Program Files/Android/Android Studio/jbr' The system environment variable JAVA_HOME is: 'C:\Program Files\Java\jdk-19' If you dont need to use different paths (or if JAVA_HOME is undefined), youcan avoid spawning multiple daemons by setting JAVA_HOME and the JDK locationto the same path." />
+      <item value="Could not get unknown property 'kotlin_version'" />
+      <item value="Duplicate class kotlin.collections.jdk8.CollectionsJDK8Kt found in modules kotlin-stdlib-1.8.0 (org.jetbrains.kotlin:kotlin-stdlib:1.8.0) and kotlin-stdlib-jdk8-1.6.0 (org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.6.0)" />
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.example.fire_basechat/com.example.fire_basechat.ChatActivity}: java.lang.NullPointerException: println needs a message" />
       <item value="Migrations for Kotlin code are available  Detected migration:   Standard library: 1.7.10 -&gt; 1.8.0   Language version: 1.7 -&gt; 1.8   API version: 1.7 -&gt; 1.8" />
       <item value="A problem occurred evaluating root project 'PostingApp'.&#10;&gt; Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'build.gradle'" />
@@ -61,14 +64,11 @@
       <item value="throw" />
       <item value="`@layout/activity_edit` does not contain a declaration with id `editTitle`" />
       <item value="@layout/activity_add does not contain a declaration with id txtContent" />
-      <item value="@SuppressLint(&quot;WrongViewCast&quot;)" />
-      <item value="plain" />
-      <item value="palin&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="33" />
-        <entry key="KOREAN" value="59" />
+        <entry key="KOREAN" value="62" />
       </map>
     </option>
   </component>
