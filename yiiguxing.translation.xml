@@ -9,11 +9,21 @@
     <option name="translateDocumentation" value="true" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogHeight" value="346" />
-    <option name="newTranslationDialogWidth" value="576" />
-    <option name="newTranslationDialogX" value="1064" />
-    <option name="newTranslationDialogY" value="355" />
+    <option name="newTranslationDialogHeight" value="479" />
+    <option name="newTranslationDialogWidth" value="566" />
+    <option name="newTranslationDialogX" value="534" />
+    <option name="newTranslationDialogY" value="228" />
     <histories>
+      <item value="&#10;Learn how to structure data for Realtime Database.&#10;Scale your data across multiple database instances.&#10;Read and write data.&#10;View your database in the Firebase console." />
+      <item value="# Add this global rule&#10;-keepattributes Signature&#10;&#10;# This rule will properly ProGuard all the model classes in&#10;# the package com.yourcompany.models.&#10;# Modify this rule to fit the structure of your app.&#10;-keepclassmembers class com.yourcompany.models.** {&#10;  *;&#10;}" />
+      <item value="&#10;When using Firebase Realtime Database in your app along with ProGuard, you need to consider how your model objects will be serialized and deserialized after obfuscation. If you use DataSnapshot.getValue(Class) or DatabaseReference.setValue(Object) to read and write data you will need to add rules to the proguard-rules.pro file:" />
+      <item value="/ This method is called once with the initial value and again&#10;        // whenever data at this location is updated." />
+      <item value="&#10;To make your app data update in realtime, you should add a ValueEventListener to the reference you just created.&#10; &#10;The onDataChange() method in this class is triggered once when the listener is attached and again every time the data changes, including the children." />
+      <item value="&#10;You can save a range of data types to the database this way, including Java objects. When you save an object the responses from any getters will be saved as children of this location." />
+      <item value="&#10;Retrieve an instance of your database using getInstance() and reference the location you want to write to.&#10; &#10;To get a reference to a database other than a us-central1 default database, you must pass the database URL to getInstance(). For a us-central1 default database, you can call getInstance() without arguments. Learn more about database locations." />
+      <item value="&#10;The Realtime Database provides a declarative rules language that allows you to define how your data should be structured, how it should be indexed, and when your data can be read from and written to.&#10; &#10;By default, read and write access to your database is restricted so only authenticated users can read or write data. To get started without setting up Authentication, you can configure your rules for public access. This does make your database open to anyone, even people not using your app, so be sure to restrict your database again when you set up authentication." />
+      <item value="To use the Realtime Database, you need to create a database instance in the Firebase console." />
+      <item value="NOTE: After adding the SDK, here are some other helpful configurations to consider:&#10; &#10;Do you want an easier way to manage library versions? You can use the Firebase Android BoM to manage your Firebase library versions and ensure that your app is always using compatible library versions." />
       <item value="Cannot clean project while build is in progress. Please wait until the build finishes to clean the project." />
       <item value="java.lang.IndexOutOfBoundsException: Inconsistency detected. Invalid view holder adapter positionMessageViewHolder{5ab2385 position=5 id=-1, oldPos=4, pLpos:4 scrap [attachedScrap] tmpDetached no parent} androidx.recyclerview.widget.RecyclerView{87d1af VFED..... ......I. 0,0-1080,1480 #7f08011c app:id/messageRecyclerView}, adapter:com.google.firebase.codelab.friendlychat.FriendlyMessageAdapter@811c9bc, layout:androidx.recyclerview.widget.LinearLayoutManager@e725d45, context:com.google.firebase.codelab.friendlychat.MainActivity@97824a1&#10;        at androidx.recyclerview.widget.RecyclerView$Recycler.validateViewHolderForOffsetPosition" />
       <item value="Before we get started, keep in mind:&#10;&#10;  * You are initializing within an existing Firebase project directory&#10;" />
@@ -54,21 +64,11 @@
       <item value="contact&#10;" />
       <item value="c" />
       <item value="context&#10;" />
-      <item value="You can easily convert any Java class to Kotlin with the same semantics.&#10;To do that, select Code | Convert Java File to Kotlin File from the main menu." />
-      <item value="Android Studio allows you to easily call a Java code from Kotlin:" />
-      <item value="lossless&#10;" />
-      <item value="compare&#10;" />
-      <item value="ror: illegal start of type" />
-      <item value="Contact" />
-      <item value="Recycler" />
-      <item value="RecyclerView " />
-      <item value="Preference&#10;" />
-      <item value="context" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="28" />
-        <entry key="KOREAN" value="42" />
+        <entry key="ENGLISH" value="33" />
+        <entry key="KOREAN" value="52" />
       </map>
     </option>
   </component>
