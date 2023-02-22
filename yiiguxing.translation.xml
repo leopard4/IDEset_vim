@@ -10,10 +10,12 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="346" />
-    <option name="newTranslationDialogWidth" value="580" />
-    <option name="newTranslationDialogX" value="1091" />
-    <option name="newTranslationDialogY" value="564" />
+    <option name="newTranslationDialogWidth" value="578" />
+    <option name="newTranslationDialogX" value="1064" />
+    <option name="newTranslationDialogY" value="355" />
     <histories>
+      <item value=" Process: com.google.firebase.codelab.friendlychat, PID: 1564&#10;    java.lang.IndexOutOfBoundsException: Inconsistency detected. Invalid view holder adapter positionMessageViewHolder" />
+      <item value="FATAL EXCEPTION: main" />
       <item value="Allow traffic to the Firebase Emulator Suite See: https:developer.android.comtrainingarticlessecurity-configCleartextTrafficPermitted" />
       <item value="This is the source code for the Firebase FriendlyChat codelabs. To get started open the codelab instructions:" />
       <item value="Firebase Codelab: FriendlyChat" />
@@ -62,13 +64,11 @@
       <item value="Activity Result Contracts" />
       <item value="Contracts" />
       <item value="Extra" />
-      <item value="put Extra" />
-      <item value="on Resume" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="28" />
-        <entry key="KOREAN" value="36" />
+        <entry key="KOREAN" value="38" />
       </map>
     </option>
   </component>
