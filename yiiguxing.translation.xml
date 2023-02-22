@@ -14,6 +14,8 @@
     <option name="newTranslationDialogX" value="1064" />
     <option name="newTranslationDialogY" value="355" />
     <histories>
+      <item value="Before we get started, keep in mind:&#10;&#10;  * You are initializing within an existing Firebase project directory&#10;" />
+      <item value="Already logged in as" />
       <item value=" Process: com.google.firebase.codelab.friendlychat, PID: 1564&#10;    java.lang.IndexOutOfBoundsException: Inconsistency detected. Invalid view holder adapter positionMessageViewHolder" />
       <item value="FATAL EXCEPTION: main" />
       <item value="Allow traffic to the Firebase Emulator Suite See: https:developer.android.comtrainingarticlessecurity-configCleartextTrafficPermitted" />
@@ -62,13 +64,11 @@
       <item value="context" />
       <item value="register For Activity Result" />
       <item value="Activity Result Contracts" />
-      <item value="Contracts" />
-      <item value="Extra" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="28" />
-        <entry key="KOREAN" value="38" />
+        <entry key="KOREAN" value="40" />
       </map>
     </option>
   </component>
