@@ -14,6 +14,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="185" />
     <histories>
+      <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.example.fire_basechat/com.example.fire_basechat.ChatActivity}: java.lang.NullPointerException: println needs a message" />
       <item value="Migrations for Kotlin code are available  Detected migration:   Standard library: 1.7.10 -&gt; 1.8.0   Language version: 1.7 -&gt; 1.8   API version: 1.7 -&gt; 1.8" />
       <item value="A problem occurred evaluating root project 'PostingApp'.&#10;&gt; Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'build.gradle'" />
       <item value="ly buildscript {}, pluginManagement {} and other plugins {} script blocks are allowed before plugins {} blocks, no other statements are allowed" />
@@ -63,12 +64,11 @@
       <item value="@SuppressLint(&quot;WrongViewCast&quot;)" />
       <item value="plain" />
       <item value="palin&#10;" />
-      <item value="pa" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="33" />
-        <entry key="KOREAN" value="58" />
+        <entry key="KOREAN" value="59" />
       </map>
     </option>
   </component>
