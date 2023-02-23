@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'PostingApp'" />
-    <option name="defaultScopeName" value="Project 'PostingApp'" />
-    <option name="SEARCH_SCOPE" value="Project 'PostingApp'" />
+    <option name="customScope" value="프로젝트 파일" />
+    <option name="defaultScopeName" value="프로젝트 파일" />
+    <option name="SEARCH_SCOPE" value="프로젝트 파일" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
