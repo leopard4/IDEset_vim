@@ -14,6 +14,7 @@
     <option name="newTranslationDialogX" value="729" />
     <option name="newTranslationDialogY" value="190" />
     <histories>
+      <item value="Introduction" />
       <item value="currentUser: com.google.firebase.auth.internal.zzx@ce8841e" />
       <item value="SDK location not found. Define a valid SDK location with an ANDROID_HOME environment variable or by setting the sdk.dir path in your project's local properties file at 'C:\Users\5-10\Documents\Github\Fire_baseChat\local.properties'.&#10;" />
       <item value="problem occurred evaluating root project 'Fire_baseChat'.&#10;&gt; Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'build.gradle'" />
@@ -63,11 +64,10 @@
       <item value="ContextCompat" />
       <item value="Compat" />
       <item value="Error while waiting for device" />
-      <item value="직원" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="33" />
+        <entry key="ENGLISH" value="34" />
         <entry key="KOREAN" value="65" />
       </map>
     </option>
