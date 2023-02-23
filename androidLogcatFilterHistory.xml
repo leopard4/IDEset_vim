@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="아이디 토큰" />
+    <option name="mostRecentlyUsed" value="currentUser" />
     <option name="nonFavorites">
       <list>
+        <option value="currentUser" />
         <option value="아이디 토큰" />
         <option value="CHATBOT_APP" />
         <option value="strEmail" />
@@ -22,7 +23,6 @@
         <option value="MEMO_APP" />
         <option value="DELETE" />
         <option value="메모객" />
-        <option value="RESET?" />
       </list>
     </option>
   </component>
