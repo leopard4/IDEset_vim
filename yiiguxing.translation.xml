@@ -10,10 +10,11 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="479" />
-    <option name="newTranslationDialogWidth" value="560" />
+    <option name="newTranslationDialogWidth" value="558" />
     <option name="newTranslationDialogX" value="729" />
     <option name="newTranslationDialogY" value="190" />
     <histories>
+      <item value=" Unable to start activity ComponentInfo{com.example.fire_basechat/com.example.fire_basechat.LoginActivity}: java.lang.NullPointerException: Attempt to invoke virtual method 'com.google.firebase" />
       <item value="Caused by: com.android.builder.errors.EvalIssueException: Configuration `:app:debugRuntimeClasspath` contains AndroidX dependencies, but the `android.useAndroidX` property is not enabled, which may cause runtime issues.&#10;" />
       <item value="Introduction" />
       <item value="currentUser: com.google.firebase.auth.internal.zzx@ce8841e" />
@@ -63,12 +64,11 @@
       <item value="GRANTED" />
       <item value="Context" />
       <item value="ContextCompat" />
-      <item value="Compat" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="34" />
-        <entry key="KOREAN" value="66" />
+        <entry key="KOREAN" value="67" />
       </map>
     </option>
   </component>
