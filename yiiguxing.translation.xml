@@ -10,10 +10,14 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="479" />
-    <option name="newTranslationDialogWidth" value="560" />
+    <option name="newTranslationDialogWidth" value="558" />
     <option name="newTranslationDialogX" value="1469" />
-    <option name="newTranslationDialogY" value="656" />
+    <option name="newTranslationDialogY" value="623" />
     <histories>
+      <item value="A problem occurred configuring root project 'alcoholRecipe'.&#10;&gt; Could not open cp_proj generic class cache for build file 'C:\Users\MH\Documents\GitHub\alcoholRecipe\build.gradle' (C:\Users\MH\.gradle\caches\7.5\scripts\dyugzp8m0xcjnre71hgr2gecm).&#10;   &gt; BUG! exception in phase 'semantic analysis' in source unit '_BuildScript_' Unsupported class file major version 63" />
+      <item value="Unsupported class file major version 63" />
+      <item value="button &lt;Button&gt;: Duplicate speakable text present" />
+      <item value="&#10;Missing contentDescription attribute on image  Non-textual widgets like ImageViews and ImageButtons should use the contentDescription attribute to specify a textual description of the widget such that screen readers and other accessibility tools can adequately describe the user interface.  Note that elements in application screens that are purely decorative and do not provide any content or enable a user action should not have accessibility content descriptions. In this case, just suppress the lint warning with a tools:ignore=&quot;ContentDescription&quot; attribute.  Note that for text fields, you should not set both the hint and the contentDescription attributes since the hint will never be shown. Just set the hint.  Issue id: ContentDescription https://developer.android.com/guide/topics/ui/accessibility/apps#special-cases Vendor: Android Open Source Project Contact: https://groups.google.com/g/lint-dev Feedback: https://issuetracker.google.com/issues/new?component=192708  " />
       <item value="Unsupported Java. &#10;Your build is currently configured to use Java 19.0.2 and Gradle 7.5.&#10;&#10;Possible solution:&#10; - Open Gradle wrapper settings, change `distributionUrl` property to use compatible Gradle version and reload the project" />
       <item value="Unsupported Java. &#10;Your build is currently configured to use Java 19.0.2 and Gradle 7.5.&#10;&#10;Possible solution:&#10; - Open Gradle wrapper settings, change `distributionUrl` property to use compatible Gradle version and reload the project&#10;" />
       <item value="&lt;LinearLayout&gt;: Unnecessary leaf layout" />
@@ -60,15 +64,11 @@
       <item value="shouldShowRequestPermissionRationale" />
       <item value="Begin a load with Glide that will be tied to the given Activity's lifecycle and that uses the given Activity's default options.&#10;Deprecated&#10;TODO(judds): Figure out the end state and list it here.&#10;Params:&#10;activity – The activity to use.&#10;Returns:&#10;A RequestManager for the given activity that can be used to start a load." />
       <item value="Provider" />
-      <item value="resolve" />
-      <item value="GRANTED" />
-      <item value="Context" />
-      <item value="ContextCompat" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="33" />
-        <entry key="KOREAN" value="68" />
+        <entry key="KOREAN" value="73" />
       </map>
     </option>
   </component>
