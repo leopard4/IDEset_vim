@@ -14,6 +14,9 @@
     <option name="newTranslationDialogX" value="1469" />
     <option name="newTranslationDialogY" value="656" />
     <histories>
+      <item value="Unsupported Java. &#10;Your build is currently configured to use Java 19.0.2 and Gradle 7.5.&#10;&#10;Possible solution:&#10; - Open Gradle wrapper settings, change `distributionUrl` property to use compatible Gradle version and reload the project" />
+      <item value="Unsupported Java. &#10;Your build is currently configured to use Java 19.0.2 and Gradle 7.5.&#10;&#10;Possible solution:&#10; - Open Gradle wrapper settings, change `distributionUrl` property to use compatible Gradle version and reload the project&#10;" />
+      <item value="&lt;LinearLayout&gt;: Unnecessary leaf layout" />
       <item value="This item may not have a label readable by screen readers." />
       <item value="Set VSCode Theme as default theme. If you find this plugin useful consider sponsoring its development to ensure that the project is actively maintained and improved." />
       <item value="problem occurred evaluating root project 'Fire_baseChat'.&#10;&gt; Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'build.gradle'" />
@@ -61,14 +64,11 @@
       <item value="GRANTED" />
       <item value="Context" />
       <item value="ContextCompat" />
-      <item value="Compat" />
-      <item value="Error while waiting for device" />
-      <item value="직원" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="33" />
-        <entry key="KOREAN" value="65" />
+        <entry key="KOREAN" value="68" />
       </map>
     </option>
   </component>
