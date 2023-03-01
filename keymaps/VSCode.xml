@@ -1,0 +1,15 @@
+<keymap version="1" name="VSCode 복사" parent="VSCode">
+  <action id="$WhatsNewInTranslationAction">
+    <mouse-shortcut keystroke="control button3" />
+  </action>
+  <action id="UpdateRunningApplication" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
+  <action id="에디터 WhatsNewInTranslationAction">
+    <mouse-shortcut keystroke="control button3" />
+  </action>
+</keymap>
