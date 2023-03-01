@@ -14,6 +14,7 @@
     <option name="newTranslationDialogX" value="729" />
     <option name="newTranslationDialogY" value="190" />
     <histories>
+      <item value="Set VSCode Theme as default theme. If you find this plugin useful consider sponsoring its development to ensure that the project is actively maintained and improved." />
       <item value="problem occurred evaluating root project 'Fire_baseChat'.&#10;&gt; Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'build.gradle'" />
       <item value="Multiple Gradle daemons might be spawned because the Gradle JDK and JAVA_HOME locations are different. Project 'PostingApp' is using the following JDK location when running Gradle: 'C:/Program Files/Android/Android Studio/jbr' The system environment variable JAVA_HOME is: 'C:\Program Files\Java\jdk-19' If you dont need to use different paths (or if JAVA_HOME is undefined), youcan avoid spawning multiple daemons by setting JAVA_HOME and the JDK locationto the same path." />
       <item value="Could not get unknown property 'kotlin_version'" />
@@ -63,12 +64,11 @@
       <item value="Error while waiting for device" />
       <item value="직원" />
       <item value="throw" />
-      <item value="`@layout/activity_edit` does not contain a declaration with id `editTitle`" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="33" />
-        <entry key="KOREAN" value="63" />
+        <entry key="KOREAN" value="64" />
       </map>
     </option>
   </component>
