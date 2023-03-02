@@ -14,6 +14,7 @@
     <option name="newTranslationDialogX" value="1321" />
     <option name="newTranslationDialogY" value="531" />
     <histories>
+      <item value="java.lang.NullPointerException: Attempt to invoke virtual method 'void android.widget.Button.setOnClickListener(android.view.View$OnClickListener)' on a null object reference" />
       <item value="This text is small and may be difficult for some users to read. Consider using a larger size or specifying the text size in scaled pixels (sp)." />
       <item value="Unsupported Java. &#10;Your build is currently configured to use Java 19.0.2 and Gradle 7.5.&#10;&#10;Possible solution:&#10; - Open Gradle wrapper settings, change `distributionUrl` property to use compatible Gradle version and reload the project" />
       <item value="A problem occurred configuring root project 'alcoholRecipe'.&#10;&gt; Could not open cp_proj generic class cache for build file 'C:\Users\MH\Documents\GitHub\alcoholRecipe\build.gradle' (C:\Users\MH\.gradle\caches\7.5\scripts\dyugzp8m0xcjnre71hgr2gecm).&#10;   &gt; BUG! exception in phase 'semantic analysis' in source unit '_BuildScript_' Unsupported class file major version 63" />
@@ -63,12 +64,11 @@
       <item value="should ShowRequestPermission" />
       <item value="shouldShowRequestPermission" />
       <item value="shouldShowRequestPermissionRationale" />
-      <item value="Begin a load with Glide that will be tied to the given Activity's lifecycle and that uses the given Activity's default options.&#10;Deprecated&#10;TODO(judds): Figure out the end state and list it here.&#10;Params:&#10;activity – The activity to use.&#10;Returns:&#10;A RequestManager for the given activity that can be used to start a load." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="33" />
-        <entry key="KOREAN" value="75" />
+        <entry key="KOREAN" value="76" />
       </map>
     </option>
   </component>
