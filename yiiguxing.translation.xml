@@ -10,10 +10,11 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="479" />
-    <option name="newTranslationDialogWidth" value="554" />
+    <option name="newTranslationDialogWidth" value="552" />
     <option name="newTranslationDialogX" value="1321" />
     <option name="newTranslationDialogY" value="531" />
     <histories>
+      <item value="`@layout/activity_recipe_info` does not contain a declaration with id `cbFriend`" />
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.leopard4.alcoholrecipe/com.leopard4.alcoholrecipe.RegisterActivity}: java.lang.ClassCastException: com.google.android.material.button.MaterialButton cannot be cast to android.widget.EditText" />
       <item value="java.lang.NullPointerException: Attempt to invoke virtual method 'void android.widget.Button.setOnClickListener(android.view.View$OnClickListener)' on a null object reference" />
       <item value="This text is small and may be difficult for some users to read. Consider using a larger size or specifying the text size in scaled pixels (sp)." />
@@ -63,12 +64,11 @@
       <item value="should Sho wRequestPermission" />
       <item value="should Sho wReques tPermission" />
       <item value="should ShowRequestPermission" />
-      <item value="shouldShowRequestPermission" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="33" />
-        <entry key="KOREAN" value="77" />
+        <entry key="KOREAN" value="78" />
       </map>
     </option>
   </component>
