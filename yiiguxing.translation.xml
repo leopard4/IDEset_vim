@@ -14,6 +14,9 @@
     <option name="newTranslationDialogX" value="1321" />
     <option name="newTranslationDialogY" value="531" />
     <histories>
+      <item value="landscape&#10;" />
+      <item value="lands" />
+      <item value="a" />
       <item value="Multiple Gradle daemons might be spawned because the Gradle JDK and JAVA_HOME locations are different. Project 'alcoholRecipe' is using the following JDK location when running Gradle: 'C:\Program Files\Android\Android Studio\jbr' The system environment variable JAVA_HOME is: 'C:\Program Files\Java\jdk-19' If you dont need to use different paths (or if JAVA_HOME is undefined), youcan avoid spawning multiple daemons by setting JAVA_HOME and the JDK locationto the same path." />
       <item value="Could not open cp_init generic class cache for initialization script 'C:\Users\MH\AppData\Local\Temp\ijinit1.gradle' (C:\Users\MH\.gradle\caches\7.5\scripts\2vc7prfcfx3galeurh60s03rw).&#10;&gt; BUG! exception in phase 'semantic analysis' in source unit '_BuildScript_' Unsupported class file major version 63&#10;" />
       <item value="Unable to find Gradle tasks to build: [:]. Build mode: REBUILD. Tests: None." />
@@ -61,14 +64,11 @@
       <item value="Allow traffic to the Firebase Emulator Suite See: https:developer.android.comtrainingarticlessecurity-configCleartextTrafficPermitted" />
       <item value="This is the source code for the Firebase FriendlyChat codelabs. To get started open the codelab instructions:" />
       <item value="Firebase Codelab: FriendlyChat" />
-      <item value="notify" />
-      <item value="notifyDataSetChanged" />
-      <item value="onScrollStateChanged" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="35" />
-        <entry key="KOREAN" value="87" />
+        <entry key="ENGLISH" value="36" />
+        <entry key="KOREAN" value="89" />
       </map>
     </option>
   </component>
