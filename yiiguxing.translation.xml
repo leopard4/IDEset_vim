@@ -10,10 +10,12 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="479" />
-    <option name="newTranslationDialogWidth" value="544" />
+    <option name="newTranslationDialogWidth" value="542" />
     <option name="newTranslationDialogX" value="1144" />
     <option name="newTranslationDialogY" value="546" />
     <histories>
+      <item value="Total 583 (delta 103), reused 199 (delta 78), pack-reused 0 remote: warning: File caches/jars-9/o_559e1191042df8b0a21dd4a10c89435c/3rd-party-rt.jar is 52.41 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB remote: warning: File caches/jars-9/o_8fb7f079610044c1365d93b90651e5ad/gradle-api-impldep-7.4.jar is 78.88 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB remote: warning: File caches/jars-9/o_07709b619e72ef42c0cb718baddb16f7/kotlin-plugin.jar is 76.46 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB remote: warning: File caches/jars-9/o_4848c1aab45c95d64f8213b5db3d956d/gradle-api-7.4.jar is 51.28 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB remote: error: Trace: 03b82294fc5da1a0b5e7f131c6e9aef3a75585442b229402a99e25be4ec24f4a remote: error: See http://git.io/iEPt8g for more information. remote: error: File caches/jars-9/o_70007413811fb0798dac4137f7290ca2/app.jar is 342.90 MB; this exceeds GitHub's file size limit of 100.00 MB remote: error: File wrapper/dists/gradle-7.5-bin/f1w0cc9nuo0eivz97x2xlu9sv/gradle-7.5-bin.zip is 115.04 MB; this exceeds GitHub's file size limit of 100.00 MB remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com. failed to push some refs to 'https://github.com/leopard4/alcoholRecipe3.git'" />
+      <item value="origin&#10;" />
       <item value="This item may not have a label readable by screen readers." />
       <item value="&#10;This view is not constrained. It only has designtime positions, so it will jump to (0,0) at runtime unless you add the constraints  The layout editor allows you to place widgets anywhere on the canvas, and it records the current position with designtime attributes (such as layout_editor_absoluteX). These attributes are not applied at runtime, so if you push your layout on a device, the widgets may appear in a different location than shown in the editor. To fix this, make sure a widget has both horizontal and vertical constraints by dragging from the edge connections.  Issue id: MissingConstraints  Vendor: Android Open Source Project Contact: https://groups.google.com/g/lint-dev Feedback: https://issuetracker.google.com/issues/new?component=192708  " />
       <item value="C:\Users\MH\Documents\GitHub\alcoholRecipe2\app\build\intermediates\packaged_manifests\debug\AndroidManifest.xml:79: error: attribute android:displayCutoutMode not found." />
@@ -62,13 +64,11 @@
       <item value="Before we get started, keep in mind:&#10;&#10;  * You are initializing within an existing Firebase project directory&#10;" />
       <item value="Already logged in as" />
       <item value=" Process: com.google.firebase.codelab.friendlychat, PID: 1564&#10;    java.lang.IndexOutOfBoundsException: Inconsistency detected. Invalid view holder adapter positionMessageViewHolder" />
-      <item value="FATAL EXCEPTION: main" />
-      <item value="Allow traffic to the Firebase Emulator Suite See: https:developer.android.comtrainingarticlessecurity-configCleartextTrafficPermitted" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="36" />
-        <entry key="KOREAN" value="92" />
+        <entry key="KOREAN" value="94" />
       </map>
     </option>
   </component>
