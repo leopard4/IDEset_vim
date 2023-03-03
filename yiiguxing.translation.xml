@@ -14,6 +14,7 @@
     <option name="newTranslationDialogX" value="1321" />
     <option name="newTranslationDialogY" value="531" />
     <histories>
+      <item value="C:\Users\MH\Documents\GitHub\alcoholRecipe2\app\build\intermediates\packaged_manifests\debug\AndroidManifest.xml:79: error: attribute android:displayCutoutMode not found." />
       <item value="landscape&#10;" />
       <item value="lands" />
       <item value="a" />
@@ -63,12 +64,11 @@
       <item value="FATAL EXCEPTION: main" />
       <item value="Allow traffic to the Firebase Emulator Suite See: https:developer.android.comtrainingarticlessecurity-configCleartextTrafficPermitted" />
       <item value="This is the source code for the Firebase FriendlyChat codelabs. To get started open the codelab instructions:" />
-      <item value="Firebase Codelab: FriendlyChat" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="36" />
-        <entry key="KOREAN" value="89" />
+        <entry key="KOREAN" value="90" />
       </map>
     </option>
   </component>
