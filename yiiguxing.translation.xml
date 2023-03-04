@@ -10,10 +10,11 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="479" />
-    <option name="newTranslationDialogWidth" value="542" />
-    <option name="newTranslationDialogX" value="1144" />
-    <option name="newTranslationDialogY" value="546" />
+    <option name="newTranslationDialogWidth" value="955" />
+    <option name="newTranslationDialogX" value="806" />
+    <option name="newTranslationDialogY" value="387" />
     <histories>
+      <item value="Welcome to Gradle 8.0.1!&#10;&#10;Here are the highlights of this release:&#10; - Improvements to the Kotlin DSL&#10; - Fine-grained parallelism from the first build with configuration cache&#10; - Configurable Gradle user home cache cleanup&#10;&#10;For more details see https://docs.gradle.org/8.0.1/release-notes.html&#10;&#10;Starting a Gradle Daemon, 1 incompatible and 2 stopped Daemons could not be reused, use --status for details&#10;&#10;&gt; Configure project :app&#10;WARNING:The option setting 'android.overridePathCheck=true' is experimental.&#10;The current default is 'false'.&#10;&#10;FAILURE: Build failed with an exception.&#10;&#10;* What went wrong:&#10;Task 'cleanBuildCache' not found in root project 'alcoholRecipe' and its subprojects.&#10;&#10;* Try:&#10;&gt; Run gradlew tasks to get a list of available tasks.&#10;&gt; Run with --stacktrace option to get the stack trace.&#10;&gt; Run with --info or --debug option to get more log output.&#10;&gt; Run with --scan to get full insights.&#10;&#10;* Get more help at https://help.gradle.org&#10;&#10;BUILD FAILED in 4s&#10;" />
       <item value="Caused by: org.gradle.api.tasks.StopExecutionException: Your project path contains non-ASCII characters. This will most likely cause the build to fail on Windows. Please move your project to a different directory. See http:b.android.com95744 for details. This warning can be disabled by adding the line 'android.overridePathCheck=true' to gradle.properties file in the project directory." />
       <item value="Caused by: org.gradle.api.internal.plugins.PluginApplicationException: Failed to apply plugin 'com.android.internal.application'." />
       <item value="Total 583 (delta 103), reused 199 (delta 78), pack-reused 0 remote: warning: File caches/jars-9/o_559e1191042df8b0a21dd4a10c89435c/3rd-party-rt.jar is 52.41 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB remote: warning: File caches/jars-9/o_8fb7f079610044c1365d93b90651e5ad/gradle-api-impldep-7.4.jar is 78.88 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB remote: warning: File caches/jars-9/o_07709b619e72ef42c0cb718baddb16f7/kotlin-plugin.jar is 76.46 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB remote: warning: File caches/jars-9/o_4848c1aab45c95d64f8213b5db3d956d/gradle-api-7.4.jar is 51.28 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB remote: error: Trace: 03b82294fc5da1a0b5e7f131c6e9aef3a75585442b229402a99e25be4ec24f4a remote: error: See http://git.io/iEPt8g for more information. remote: error: File caches/jars-9/o_70007413811fb0798dac4137f7290ca2/app.jar is 342.90 MB; this exceeds GitHub's file size limit of 100.00 MB remote: error: File wrapper/dists/gradle-7.5-bin/f1w0cc9nuo0eivz97x2xlu9sv/gradle-7.5-bin.zip is 115.04 MB; this exceeds GitHub's file size limit of 100.00 MB remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com. failed to push some refs to 'https://github.com/leopard4/alcoholRecipe3.git'" />
@@ -63,12 +64,11 @@
       <item value="NOTE: After adding the SDK, here are some other helpful configurations to consider:&#10; &#10;Do you want an easier way to manage library versions? You can use the Firebase Android BoM to manage your Firebase library versions and ensure that your app is always using compatible library versions." />
       <item value="Cannot clean project while build is in progress. Please wait until the build finishes to clean the project." />
       <item value="java.lang.IndexOutOfBoundsException: Inconsistency detected. Invalid view holder adapter positionMessageViewHolder{5ab2385 position=5 id=-1, oldPos=4, pLpos:4 scrap [attachedScrap] tmpDetached no parent} androidx.recyclerview.widget.RecyclerView{87d1af VFED..... ......I. 0,0-1080,1480 #7f08011c app:id/messageRecyclerView}, adapter:com.google.firebase.codelab.friendlychat.FriendlyMessageAdapter@811c9bc, layout:androidx.recyclerview.widget.LinearLayoutManager@e725d45, context:com.google.firebase.codelab.friendlychat.MainActivity@97824a1&#10;        at androidx.recyclerview.widget.RecyclerView$Recycler.validateViewHolderForOffsetPosition" />
-      <item value="Before we get started, keep in mind:&#10;&#10;  * You are initializing within an existing Firebase project directory&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="38" />
-        <entry key="KOREAN" value="94" />
+        <entry key="KOREAN" value="95" />
       </map>
     </option>
   </component>
